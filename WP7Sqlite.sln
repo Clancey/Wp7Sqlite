@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.CSharpSqlite.WP7", "Community.CSharpSqlite.SL\Community.CSharpSqlite.WP7.csproj", "{9C516B59-475D-4D83-8A3F-6373C668AFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.CsharpSqlite.SqlLiteClient.WP7", "Community.CsharpSqlite.SqlLiteClient.SL\Community.CsharpSqlite.SqlLiteClient.WP7.csproj", "{0751AE91-6828-473A-AC59-C2DD1CE4E675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreSharp.WP7SqliteTest", "CoreSharp.WP7SqliteTest\CoreSharp.WP7SqliteTest.csproj", "{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C516B59-475D-4D83-8A3F-6373C668AFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C516B59-475D-4D83-8A3F-6373C668AFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C516B59-475D-4D83-8A3F-6373C668AFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C516B59-475D-4D83-8A3F-6373C668AFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0751AE91-6828-473A-AC59-C2DD1CE4E675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0751AE91-6828-473A-AC59-C2DD1CE4E675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0751AE91-6828-473A-AC59-C2DD1CE4E675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0751AE91-6828-473A-AC59-C2DD1CE4E675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323C8E62-64DE-4565-B7B8-8B5D6D4233B1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
